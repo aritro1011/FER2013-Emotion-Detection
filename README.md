@@ -75,4 +75,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-This `README.md` should guide users through setting up the project and give them insight into how to use it, along with plans for the future Chrome extension.
+
