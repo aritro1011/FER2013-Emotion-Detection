@@ -6,7 +6,7 @@ This project utilizes a Convolutional Neural Network (CNN) to detect emotions fr
 Accuracy: 65% without any pretrained model
 
 ##Confusion Matrix
-![Confusion Matrix](confusionMatrix65%.jpeg)
+![Confusion Matrix](FER2013-Emotion-Detection/confusionMatrix65%.jpeg)
 ## Custom Dataset Modifications
 
 For this project, the FER2013 dataset has been customized by:
