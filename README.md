@@ -5,6 +5,8 @@
 This project utilizes a Convolutional Neural Network (CNN) to detect emotions from facial expressions. It classifies emotions such as happiness, sadness, anger, surprise, and fear. The model is trained on a customized version of the FER2013 dataset. The goal is to build a robust emotion recognition system for use in real-time applications.
 Accuracy: 65% without any pretrained model
 
+##Confusion Matrix
+![Confusion Matrix](confusionMatrix65%.jpeg)
 ## Custom Dataset Modifications
 
 For this project, the FER2013 dataset has been customized by:
