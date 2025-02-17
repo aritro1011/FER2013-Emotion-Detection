@@ -70,13 +70,6 @@ In order to integrate the emotion detection system as a Chrome extension, the fo
     - Perform thorough testing to ensure the extension works smoothly across different devices.
     - Optimize the model for speed and accuracy within the constraints of a browser environment.
 
-## Usage
-
-Once the model is trained, it can be used for emotion detection through the following script:
-```bash
-python detect_emotion.py --image <path_to_image>
-```
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
