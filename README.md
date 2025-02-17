@@ -1,6 +1,4 @@
-Sure! Here's a `README.md` for your CNN emotion detection project:
 
----
 
 # CNN Emotion Detection Project
 
